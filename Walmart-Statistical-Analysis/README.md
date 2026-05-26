@@ -35,6 +35,35 @@ These insights can help Walmart improve customer targeting, promotions, and sale
 
 ---
 
+# Statistical Concepts Used
+
+This project demonstrates practical implementation of:
+
+- Central Limit Theorem (CLT)
+- Confidence Intervals
+- Statistical Inference
+- Sampling Distribution
+- Outlier Detection
+- Exploratory Data Analysis (EDA)
+- Demographic-based Behavioral Analysis
+# Sample Analysis Visualizations
+
+## Gender-wise Purchase Distribution
+
+![Gender Purchase Distribution](screenshots/Gender_Purchase_Distribution.png)
+
+---
+
+## Marital Status Purchase Analysis
+
+![Marital Status Analysis](screenshots/Marital_Status_Analysis.png)
+
+---
+
+## Confidence Interval Analysis
+
+![Confidence Intervals](screenshots/Confidence_Intervals.png)
+
 # Tech Stack
 
 - Python
@@ -46,6 +75,22 @@ These insights can help Walmart improve customer targeting, promotions, and sale
 - Statistical Analysis
 
 ---
+# Project Structure
+
+```bash
+Walmart-Statistical-Analysis/
+│
+├── README.md
+├── Main_Analysis.py
+├── Business_Insights.md
+├── notebooks/
+├── screenshots/
+├── visualizations/
+├── results/
+├── datasets/
+└── requirements.txt
+```
+
 
 # Project Status
 
