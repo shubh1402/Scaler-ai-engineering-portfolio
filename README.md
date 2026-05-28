@@ -1,37 +1,105 @@
 # Scaler AI Engineering Portfolio
 
-Production-style portfolio of SQL, analytics, machine learning, NLP, computer vision, and AI engineering case studies built during the Scaler AI Engineering program.
+Production-style portfolio featuring analytics, machine learning, feature engineering, NLP, deep learning, and AI engineering case studies developed during the Scaler AI Engineering program.
+
+The repository focuses on solving real-world business problems using data analytics, statistical inference, machine learning workflows, and scalable AI engineering practices.
 
 ---
 
 # Portfolio Domains
 
 ## SQL & Business Analytics
-- Target Brazil SQL Analysis
-- Walmart Statistical Analysis
-- Netflix Data Exploration
-- Yulu Hypothesis Testing
-- Aerofit Customer Analysis
+
+* Target Brazil SQL Analysis
+* Walmart Statistical Analysis
+* Netflix Data Exploration
+* Yulu Hypothesis Testing
+* Aerofit Customer Analysis
+
+Focus Areas:
+
+* SQL analytics
+* business intelligence
+* hypothesis testing
+* exploratory data analysis
+* statistical inference
+* operational insights
+
+---
 
 ## Machine Learning & Predictive Analytics
-- LoanTap Credit Risk Analysis
-- Jamboree Admission Prediction
-- OLA Driver Attrition Prediction
-- AdEase Time Series Forecasting
+
+* LoanTap Credit Risk Analysis
+* Jamboree Admission Prediction
+* OLA Driver Attrition Prediction
+* AdEase Time Series Forecasting
+
+Focus Areas:
+
+* classification models
+* regression analysis
+* ensemble learning
+* forecasting systems
+* model evaluation
+* feature engineering
+
+---
 
 ## Data Engineering & Feature Engineering
-- Delhivery Feature Engineering
+
+* Delhivery Feature Engineering
+
+Focus Areas:
+
+* preprocessing pipelines
+* datetime engineering
+* logistics analytics
+* KPI engineering
+* aggregation workflows
+* operational intelligence
+
+---
 
 ## NLP & AI Systems
-- Twitter NER Pipeline
-- FlipitNews NLP Analysis
+
+* Twitter NER Pipeline
+* FlipitNews NLP Analysis
+
+Focus Areas:
+
+* named entity recognition
+* text preprocessing
+* NLP pipelines
+* transformer workflows
+* language analytics
+
+---
 
 ## Deep Learning & Computer Vision
-- Porter Neural Network Regression
-- Ninjacart Image Classification
+
+* Porter Neural Network Regression
+* Ninjacart Image Classification
+
+Focus Areas:
+
+* neural networks
+* deep learning pipelines
+* image classification
+* computer vision workflows
+* regression modeling
+
+---
 
 ## Recommendation Systems
-- Zee Recommendation System
+
+* Zee Recommendation System
+
+Focus Areas:
+
+* recommendation engines
+* personalization systems
+* collaborative filtering
+* ranking workflows
 
 ---
 
@@ -39,21 +107,23 @@ Production-style portfolio of SQL, analytics, machine learning, NLP, computer vi
 
 ## Target Brazil SQL Analysis
 
-A production-style SQL analytics project analyzing Target Brazil’s e-commerce operations using customer, payment, freight, and delivery datasets.
+Production-style SQL analytics project analyzing Target Brazil’s e-commerce operations using customer, payment, freight, and delivery datasets.
 
 ### Key Highlights
-- SQL-based business analytics
-- Trend & seasonality analysis
-- Delivery performance evaluation
-- Freight cost optimization insights
-- Payment behavior analysis
-- Business recommendations
+
+* Business-oriented SQL analytics
+* Trend and seasonality analysis
+* Freight cost optimization insights
+* Delivery performance evaluation
+* Payment behavior analysis
+* Operational business recommendations
 
 ### Tech Stack
-- SQL
-- MySQL
-- Data Analytics
-- Business Intelligence
+
+* SQL
+* MySQL
+* Data Analytics
+* Business Intelligence
 
 ### Project Structure
 
@@ -73,46 +143,76 @@ target-brazil-sql-analysis/
 
 # Tech Stack
 
-## Programming
-- Python
-- SQL
+## Programming & Query Languages
 
-## Machine Learning
-- Scikit-learn
-- TensorFlow
-- NLP
-- Feature Engineering
-- Statistics
+* Python
+* SQL
+
+---
+
+## Data Analytics & Statistics
+
+* Pandas
+* NumPy
+* SciPy
+* Statsmodels
+* Excel
+* Tableau
+
+---
+
+## Machine Learning & AI
+
+* Scikit-learn
+* TensorFlow
+* NLP
+* Feature Engineering
+* Deep Learning
+* Statistical Modeling
+
+---
 
 ## Backend & Automation
-- FastAPI
-- Streamlit
-- APIs
-- Docker
-- GitHub Actions
 
-## Data Analytics
-- Pandas
-- NumPy
-- Tableau
-- Excel
+* FastAPI
+* Streamlit
+* REST APIs
+* Docker
+* GitHub Actions
+
+---
 
 ## Cloud & MLOps
-- AWS SageMaker
-- MLFlow
-- CI/CD
+
+* AWS SageMaker
+* MLflow
+* CI/CD Workflows
 
 ---
 
 # Repository Goals
 
 This repository is focused on building:
-- production-style analytics projects
-- real-world business case studies
-- machine learning workflows
-- AI engineering systems
-- reusable analytics pipelines
-- professional portfolio-grade repositories
+
+* production-style analytics repositories
+* business-oriented case studies
+* scalable machine learning workflows
+* reusable preprocessing pipelines
+* AI engineering systems
+* automation-driven analytics projects
+* portfolio-grade engineering implementations
+
+---
+
+# Engineering Principles
+
+* Modular project structure
+* Reproducible workflows
+* Business-focused analytics
+* Scalable preprocessing pipelines
+* Visualization-driven insights
+* Clean Git and repository management
+* Production-style implementation practices
 
 ---
 
@@ -121,8 +221,16 @@ This repository is focused on building:
 ## Shubham Gupta
 
 AI Automation & ML Engineer focused on:
-- AI systems
-- analytics engineering
-- machine learning workflows
-- automation infrastructure
-- applied AI engineering
+
+* AI systems engineering
+* analytics engineering
+* machine learning workflows
+* automation infrastructure
+* operational intelligence
+* applied AI engineering
+
+---
+
+# Repository Status
+
+Actively expanding with production-style analytics, machine learning, NLP, and AI engineering projects.
